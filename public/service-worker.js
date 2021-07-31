@@ -4,7 +4,7 @@ const DATA_CACHE_NAME = 'budget-data-cache-v2';
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
-  // "/manifest.json",
+  "/manifest.json",
   "/js/index.js",
   "/js/idb.js",
   "/css/styles.css",
